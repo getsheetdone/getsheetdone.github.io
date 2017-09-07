@@ -1010,13 +1010,13 @@ General Styles - FlexSlider
 }
 
 .flex-direction-nav .flex-prev {
-  opacity: 0;
+  opacity: 1;
   left: 0;
   cursor: url(../images/prev-light.png), e-resize;
 }
 
 .flex-direction-nav .flex-next {
-  opacity: 0;
+  opacity: 1;
   right: 0;
   cursor: url(../images/next-light.png), e-resize;
 }
