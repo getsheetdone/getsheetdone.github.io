@@ -1263,10 +1263,17 @@ General Styles - Owlcarousel
 }
 
 .navbar-custom .navbar-brand {
+  padding: 0px; /* firefox bug fix */
   letter-spacing: 4px;
   font-weight: 400;
   font-size: 22px;
   color: #fff;
+}
+
+.navbar-custom .navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
 }
 
 .navbar-custom .nav li > a {
