@@ -1269,6 +1269,10 @@ General Styles - Owlcarousel
   color: #fff;
 }
 
+.navbar-custom .navbar-logo {
+  display: inline-block;
+}
+
 .navbar-custom .nav li > a {
   position: relative;
   color: rgba(255, 255, 255, 0.7);
