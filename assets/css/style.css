@@ -1270,13 +1270,11 @@ General Styles - Owlcarousel
   color: #fff;
 }
 
-/*
 .navbar-custom .navbar-brand > img {
   height: 100%;
   padding: 15px; /* firefox bug fix */
- /* width: auto;
+  width: auto;
 }
-*/
 
 .navbar-custom .nav li > a {
   position: relative;
